@@ -22,7 +22,7 @@
     margin-right: 5px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     align-items: baseline;
-    position: absolute;
+    position: sticky;
   bottom: 0;
   width: 100%;
   height: 50px;
@@ -30,5 +30,6 @@
   background-color: #333;
   text-align: center;
   padding-top: 10px;
+  
 }
 </style>

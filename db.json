@@ -13,49 +13,6 @@
       "ProductInDate": "2023-03-21T18:30:00.000Z",
       "ProductId": "1232423432",
       "id": 2
-    },
-    {
-      "ProductName": "T-shirt",
-      "ProductPrice": "900.0",
-      "ProductInDate": "2023-03-23T18:30:00.000Z",
-      "ProductId": "18827181",
-      "id": 3
-    },
-    {
-      "ProductName": "ee",
-      "ProductPrice": "222",
-      "ProductInDate": "2023-03-21T18:30:00.000Z",
-      "ProductId": "as",
-      "id": 4
-    },
-    {
-      "ProductName": "www",
-      "ProductPrice": "250.0",
-      "ProductInDate": "2023-03-14T18:30:00.000Z",
-      "ProductId": "1232423432",
-      "id": 5
-    },
-    {
-      "ProductName": "ee",
-      "ProductPrice": "250.0",
-      "ProductInDate": "2023-03-14T18:30:00.000Z",
-      "ProductId": "1232423432",
-      "id": 6
-    },
-    {
-      "ProductName": "Shoes",
-      "ProductPrice": "3500.0",
-      "ProductInDate": "2023-04-25T18:30:00.000Z",
-      "ProductId": "1017878401",
-      "id": 7
-    },
-    {
-      "ProductName": "sem",
-      "ProductPrice": "233",
-      "ProductInDate": "2023-03-07T18:30:00.000Z",
-      "ProductId": "2342",
-      "BarCodeData": "2342",
-      "id": 8
     }
   ]
 }
